@@ -14,7 +14,7 @@
     "@nuxt/content": "^1.14.0",
     "@nuxt/typescript-runtime": "^2.1.0",
     "@nuxtjs/axios": "^5.13.6",
-    "@types/express": "^4.17.12",
+    "@types/express": "^4.17.13",
     "core-js": "^3.15.1",
     "express": "^4.17.1",
     "nuxt": "^2.15.7"
